@@ -1,8 +1,6 @@
 # Wireless Testing Hacking
 
-Hi All,
-
-I am playing around with RTL-SDR
+## RTL-SDR ##
 
 ![](https://www.elektor.de/media/catalog/product/cache/121dd0c5ea746ea6981ef71c2a33aab9/r/8/r820t2_rtl2832u_1ppm_tcxo_sma_software_defined_radio_with_dipole_antenna_kit_-_contents.jpg)
 
