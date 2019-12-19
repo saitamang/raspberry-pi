@@ -9,11 +9,11 @@ Basically what I am doing is by reading the frequency transmitted by another tra
 1. Install the frequency reader into your machine
 
 `http://gqrx.dk/`
-# this is for linux
+#This is for linux
 
 ![](https://farm9.staticflickr.com/8603/30105972096_5447126eb2_c.jpg)
 
 2. Connect the RTL-SDR to your linux machine
 
 3. Run the GQRX tools and set your frequency to read
-# Noted that the frequency is in KHz instead of MHz
+#Noted that the frequency is in KHz instead of MHz
