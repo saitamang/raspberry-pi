@@ -24,7 +24,7 @@ Basically what I am doing is by reading the frequency transmitted by another tra
 
 #Noted that the frequency is in KHz instead of MHz
 
-4. The I am installing rpitx from below link
+4. Then I am installing rpitx from below link
 
 `https://github.com/F5OEO/rpitx`
 
