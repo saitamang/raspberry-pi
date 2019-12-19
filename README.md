@@ -1,2 +1,2 @@
 # raspberry-pi
-just a fun project regarding raspberry pi
+Just a fun project regarding raspberry pi
