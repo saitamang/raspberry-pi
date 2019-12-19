@@ -12,7 +12,7 @@ Basically what I am doing is by reading the frequency transmitted by another tra
 
 `http://gqrx.dk/`
 
-#This is for linux
+#This is for laptop linux machine
 
 <img src="https://farm9.staticflickr.com/8603/30105972096_5447126eb2_c.jpg" width="400" height="300" />
 
@@ -25,6 +25,8 @@ Basically what I am doing is by reading the frequency transmitted by another tra
 4. The I am installing rpitx from below link
 
 `https://github.com/F5OEO/rpitx`
+
+#Make sure this one if from your PI, kindly read the repo from given link
 
 5. Set the frequency to test
 
